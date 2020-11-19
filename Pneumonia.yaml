@@ -1,0 +1,4 @@
+    train: pneumonia_data/images/train
+    val: pneumonia_data/images/validation
+    nc: 1
+    names: ["pneumonia"]
